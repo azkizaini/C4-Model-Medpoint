@@ -3,7 +3,7 @@ ssExternalAuth = softwareSystem "External Auth" {
 }
 
 ssExternalPayment = softwareSystem "External Payment" {
-    description "External Payment (BRI)"
+    description "External Payment Gateway (Midtrans/Xendit)"
 }
 
 ssExternalMessaging = softwareSystem "External Messaging" {
