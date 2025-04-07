@@ -16,10 +16,11 @@ User story
 
 Code Diagram (C4)
 Sign Up
-![image](https://github.com/user-attachments/assets/496d1c69-606b-4ed0-9d97-af6ef0ee2a7f)
+![image](https://github.com/user-attachments/assets/a218dcf4-9153-452f-b395-4777e68db7f1)
 
 Log In
 ![image](https://github.com/user-attachments/assets/63637271-ddcc-4bd1-a2a4-d80fdde6848a)
 
 Reservation
-![image](https://github.com/user-attachments/assets/5c923100-4cec-4c36-89c6-b4ec9f824e17)
+![image](https://github.com/user-attachments/assets/0e2dcc5e-fe9c-476e-8f9e-f5a857f1a41a)
+
